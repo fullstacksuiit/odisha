@@ -1,0 +1,33 @@
+{
+  "name": "LITWIST | LITERARY",
+  "short_name": " LITWIST",
+  "theme_color": "#ffc107",
+  "background_color": "#ffc107",
+  "display": "standalone",
+  "orientation": "portrait",
+  "Scope": "/",
+  "start_url": "/index.html",
+  "icons": [
+    {
+      "src": "img/fav16.ico",
+      "sizes": "16x16",
+      "type": "image/ico"
+    },
+    {
+      "src": "img/fav32.ico",
+      "sizes": "32x32",
+      "type": "image/ico"
+    },
+    {
+      "src": "img/fav48.ico",
+      "sizes": "48x48",
+      "type": "image/ico"
+    },
+    {
+      "src": "img/fav192.ico",
+      "sizes": "192x192",
+      "type": "image/ico"
+    }
+  ],
+  "splash_pages": null
+}
